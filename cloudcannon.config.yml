@@ -6,7 +6,7 @@
 # CloudCannon configuration specific to those collections.
 collections_config:
   pages:
-    disable_add_folder: true
+    disable_add_folder: false
     path: content
     glob:
       - '!docs/_index.md'
